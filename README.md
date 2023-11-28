@@ -5,4 +5,4 @@ This is a repository of code for analyses of fit dynamical systems and to genera
 For questions about the code, please contact adi.nair AT caltech DOT edu.
 For general questions about the paper, contact wuwei AT caltech DOT edu or ann.kennedy AT northwestern DOT edu
 
-update 10/5, currently adding fit models of VMHvl and MPOA
+Code and notebooks for fitting models is available in the Linderman lab's repository at: https://github.com/lindermanlab/ssm/blob/master/notebooks/4-Recurrent-SLDS.ipynb
